@@ -2,19 +2,19 @@
 Azure is Microsoft's cloud computing platform, offering a wide range of services that cater to various needs, from computing and storage to networking and machine learning. Here’s a quick overview:
 
 Key Features of Azure:
-  Compute Services: Virtual Machines, Azure Functions, and App Services allow you to run applications and services on-demand.
+  1.Compute Services: Virtual Machines, Azure Functions, and App Services allow you to run applications and services on-demand.
   
-  Storage Solutions: Azure Blob Storage, Azure SQL Database, and Azure Cosmos DB provide scalable data storage options.
+  2.Storage Solutions: Azure Blob Storage, Azure SQL Database, and Azure Cosmos DB provide scalable data storage options.
   
-  Networking: Virtual Networks, Azure CDN, and Azure ExpressRoute help manage network traffic and enhance connectivity.
+  3.Networking: Virtual Networks, Azure CDN, and Azure ExpressRoute help manage network traffic and enhance connectivity.
   
-  AI and Machine Learning: Azure Machine Learning and Cognitive Services enable developers to integrate AI capabilities into their applications.
+  4.AI and Machine Learning: Azure Machine Learning and Cognitive Services enable developers to integrate AI capabilities into their applications.
   
-  DevOps: Azure DevOps offers tools for CI/CD, project management, and collaboration.
+  5.DevOps: Azure DevOps offers tools for CI/CD, project management, and collaboration.
   
-  Security: Features like Azure Security Center and Azure Active Directory help protect applications and manage identities.
+  6.Security: Features like Azure Security Center and Azure Active Directory help protect applications and manage identities.
   
-  Integration: Azure Logic Apps and Azure Functions support creating automated workflows and integrating with other services.
+  7.Integration: Azure Logic Apps and Azure Functions support creating automated workflows and integrating with other services.
   
   Use Cases:
   Web Hosting: Host websites and applications in a scalable environment.
